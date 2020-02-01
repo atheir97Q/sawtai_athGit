@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">صوتي</string>
+    <string name="Get_reply">احصل على الرد</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="end">إنهاء</string>
+    <string name="make_sign">ابدأ بالتحدث بـلغة الإشاره لتحويله على خطاب صوتي</string>
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="speech_prompt" translatable="false">ابأ بالتحدث</string>
+    <string name="speech_not_supported">عذراً! جهازك لا يدعم ادخال الصوت</string>
+    <string name="start_Communication">أبدا بالمحادثة</string>
+    <string name="tap_on_mic">اضغط على الميكروفون للتحدث</string>
+</resources>
